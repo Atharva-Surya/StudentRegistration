@@ -39,7 +39,7 @@ A comprehensive Student Registration System built primarily in Java, with an int
 
 - **Backend:** Java
 - **Frontend:** HTML and CSS (for frontend form)
-- **Database:** (Specify if using MySQL, SQLite, H2, etc.)
+- **Database:** MySQL
 - **Web Server:** Apache Tomcat
 
 ---
